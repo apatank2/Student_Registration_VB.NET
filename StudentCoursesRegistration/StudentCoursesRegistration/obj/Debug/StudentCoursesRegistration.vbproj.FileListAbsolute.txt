@@ -1,0 +1,14 @@
+C:\Users\abhiv\source\repos\StudentCoursesRegistration\StudentCoursesRegistration\bin\Debug\StudentCoursesRegistration.exe.config
+C:\Users\abhiv\source\repos\StudentCoursesRegistration\StudentCoursesRegistration\bin\Debug\StudentCoursesRegistration.exe
+C:\Users\abhiv\source\repos\StudentCoursesRegistration\StudentCoursesRegistration\bin\Debug\StudentCoursesRegistration.pdb
+C:\Users\abhiv\source\repos\StudentCoursesRegistration\StudentCoursesRegistration\bin\Debug\StudentCoursesRegistration.xml
+C:\Users\abhiv\source\repos\StudentCoursesRegistration\StudentCoursesRegistration\obj\Debug\StudentCoursesRegistration.vbprojResolveAssemblyReference.cache
+C:\Users\abhiv\source\repos\StudentCoursesRegistration\StudentCoursesRegistration\obj\Debug\StudentCoursesRegistration.Form1.resources
+C:\Users\abhiv\source\repos\StudentCoursesRegistration\StudentCoursesRegistration\obj\Debug\StudentCoursesRegistration.Resources.resources
+C:\Users\abhiv\source\repos\StudentCoursesRegistration\StudentCoursesRegistration\obj\Debug\StudentCoursesRegistration.vbproj.GenerateResource.cache
+C:\Users\abhiv\source\repos\StudentCoursesRegistration\StudentCoursesRegistration\obj\Debug\StudentCoursesRegistration.vbproj.CoreCompileInputs.cache
+C:\Users\abhiv\source\repos\StudentCoursesRegistration\StudentCoursesRegistration\obj\Debug\StudentCoursesRegistration.exe
+C:\Users\abhiv\source\repos\StudentCoursesRegistration\StudentCoursesRegistration\obj\Debug\StudentCoursesRegistration.xml
+C:\Users\abhiv\source\repos\StudentCoursesRegistration\StudentCoursesRegistration\obj\Debug\StudentCoursesRegistration.pdb
+C:\Users\abhiv\source\repos\StudentCoursesRegistration\StudentCoursesRegistration\obj\Debug\StudentCoursesRegistration.Registration.resources
+C:\Users\abhiv\source\repos\StudentCoursesRegistration\StudentCoursesRegistration\obj\Debug\StudentCoursesRegistration.Main.resources
